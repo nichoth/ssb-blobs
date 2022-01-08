@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "level": "^6.0.0",
-    "multiblob": "^1.12.0",
+    "multiblob": "github:nichoth/multiblob",
     "obz": "^1.0.2",
     "pull-defer": "^0.2.3",
     "pull-level": "^2.0.4",
